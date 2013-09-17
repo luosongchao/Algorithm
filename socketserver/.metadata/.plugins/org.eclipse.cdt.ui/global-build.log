@@ -1,0 +1,201 @@
+22:54:01 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+22:54:04 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+11:19:34 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+14:25:28 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+14:26:50 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+14:31:39 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+14:34:18 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+14:37:24 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+15:37:13 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+15:37:25 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+15:38:49 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+15:38:51 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+15:40:14 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+15:51:42 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+16:14:09 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+16:15:05 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+09:34:21 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+14:19:09 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+Building file: ../concurrent.cpp
+Invoking: GCC C++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"concurrent.d" -MT"concurrent.d" -o "concurrent.o" "../concurrent.cpp"
+Finished building: ../concurrent.cpp
+ 
+Building target: sockettimeser
+Invoking: GCC C++ Linker
+g++  -o "sockettimeser"  ./concurrent.o ./timeser.o   
+Finished building target: sockettimeser
+ 
+14:48:43 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+17:38:52 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+17:46:16 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+17:47:06 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+17:47:24 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+17:48:04 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+20:36:48 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+20:37:24 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+20:37:50 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+20:38:46 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+20:38:48 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+21:56:40 **** Incremental Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+10:50:40 **** Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。

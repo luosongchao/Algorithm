@@ -1,0 +1,6 @@
+10:50:40 **** Build of configuration Debug for project sockettimeser ****
+make all 
+make: 没有什么可以做的为 `all'。
+
+10:50:40 Build Finished (took 85ms)
+
